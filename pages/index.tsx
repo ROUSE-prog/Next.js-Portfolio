@@ -35,10 +35,25 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
       <link rel="Me" href="public/linkinphoto.jpg"/>
-        <p>Welcome to my full-stack portfolio! My name is Steven Rouse and I am a full-stack developer with a passion for building dynamic and functional web apps. In this portfolio, you will find a selection of projects that showcase my skills and experience in both front-end and back-end developmen
-As a full-stack dev, I have a strong foundation in the programming languages (HTML,CSS,JavaScript,and Python), as well as frameworks and libraries such as React, Next.js,Three.js, Node.js, and Django. I am skilled in designing and implementing responsive and user-friendly interfaces, as well as building robust and scalable back-end systems.
-Throughout my consistant learning, I have worked on a wide range of projects, from small personal projects to large-scale enterprise applications. I am always seeking new challenges and opportunities to learn and grow as a developer.
-Thank you for visiting my portfolio. I hope you enjoy exploring my work and learning more about my capabilities as a full-stack developer.</p>
+        <p>Welcome to my full-stack portfolio! My name is Steven Rouse A full-stack developer with a passion for building dynamic and functional web apps
+         here you will see a selection of projects plus other sites that showcase my skills and experience in both front-end and back-end development
+        ,With close to 5 years of (HTML,CSS,JavaScript,and Python), as well as frameworks and libraries such as React, Next.js, Three.js, Node.js,and Django. 
+        I am skilled in designing and implementing responsive and user-friendly interfaces, as well as building robust and scalable back-end systems.</p>
+
+        <p>A full-stack developer with a passion for building dynamic and functional web apps
+         here you will see a selection of projects plus other sites that showcase my skills and experience in both front-end and back-end development
+        ,With close to 5 years of (HTML,CSS,JavaScript,and Python), as well as frameworks and libraries such as React, Next.js, Three.js, Node.js,and Django. 
+        I am skilled in designing and implementing responsive and user-friendly interfaces, as well as building robust and scalable back-end systems.</p>
+
+        <h2>Projects</h2>
+        <p>
+          Three.js Portfolio:
+          I also have my portfolio available running in with Three.js here. I wanted to work with 3D elements.
+          Although a bit simple in design. It showcase my ability to work on new technologies in a great-pace.
+          Completion time: 2 days. 
+        </p>
+
+        
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
